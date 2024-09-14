@@ -30,6 +30,7 @@ tables = [
     "comments_from_issue",
     "my_issues",
     "stargazers_from_repository",
+    "info_from_repository",
 ]
 
 # The user configuration schema
